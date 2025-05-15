@@ -1,0 +1,28 @@
+body {
+	background-color: #fff4a1;
+}
+
+p, li, a {
+	font-family: "Antic Slab", serif;
+}
+
+img {
+	border-color:#000000;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 10%;
+}
+
+a {
+	color: #fc95da;
+}
+
+
+p, li, a {
+	font-family: "Roboto", san-serif;
+}
+
+
+h1{
+	text-align: center;
+}
